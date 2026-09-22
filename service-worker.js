@@ -1,4 +1,4 @@
-const NOME_CACHE = "diario-didattico-v2";
+const NOME_CACHE = "diario-didattico-v3";
 const APP_SHELL = [
   "./",
   "./index.html",
